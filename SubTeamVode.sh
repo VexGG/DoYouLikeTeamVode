@@ -9,5 +9,8 @@ printf " _________  _______   ________  _____ ______           ___      ___ ____
 
 printf "Do You Like Team Vode To Find Out Type Anything You Want!"
 read sub
-echo "U Like Team Vode :)"
-else "U Dont Like Team Vode :("
+{
+    echo "U Like Team Vode :)"
+    else "U Dont Like Team Vode :("
+
+}
